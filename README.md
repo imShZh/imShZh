@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi👋 , this is ShZh 
+<img align="right" alt="ShZh7" width="300px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-<!--
-**tiny-ShZh/tiny-ShZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/age-21-brightgreen)
+![](https://img.shields.io/badge/sex-male-yellow)
+![](https://img.shields.io/badge/country-CN-red)
+![](https://visitor-badge.glitch.me/badge?page_id=imShZh.imShZh)
 
-Here are some ideas to get you started:
+*Struggle to be open source community leader, code for freedom!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I used to be a web developer. [[🌐 source code of my websites](https://github.com/ShZh-websites)]
+- I often reinvent the wheels. [[📦 toys made for fun](https://github.com/ShZh-Playground)] | [[⚡ libraries can be used](https://github.com/ShZh-libraries)]
+- I love contributing open source projects. [🤔 [currently none](https://github.com/imShZh)]
+- More interesting details about me. [[🔭 my homepage](https://shzh.me)] | [[☘️ Curriculum Vitae](https://github.com/imShZh)]
+
+I'm looking for 2022 winter internship.
