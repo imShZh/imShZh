@@ -11,6 +11,6 @@
 - I used to be a web developer. [[🌐 source code of my websites](https://github.com/ShZh-websites)]
 - I often reinvent the wheels. [[📦 toys made for fun](https://github.com/ShZh-Playground)] | [[⚡ libraries can be used](https://github.com/ShZh-libraries)]
 - I love contributing open source projects. [🤔 [currently none](https://github.com/imShZh)]
-- More interesting details about me. [[🔭 my homepage](https://shzh.me)] | [[☘️ Curriculum Vitae](https://imshzh.github.io/CV.pdf)]
+- More interesting details about me. [[🔭 my homepage](https://shzh.me)] | [[☘️ Curriculum Vitae](https://imshzh.github.io/cv/en-US.pdf)]
 
 I'm looking for 2022 winter internship.
