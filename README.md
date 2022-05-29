@@ -14,4 +14,4 @@
 - I love contributing open source projects. [🤔 [currently none](https://github.com/imShZh)]
 - More interesting details about me. [[🔭 my homepage](https://shzh.wiki)] | [[☘️ Curriculum Vitae](https://imshzh.github.io/cv/en-US.pdf)]
 
-I'm looking for 2022 winter internship.
+~~I'm looking for 2022 winter internship.~~
