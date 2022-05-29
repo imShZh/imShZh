@@ -1,5 +1,6 @@
 ### Hi👋 , this is ShZh 
-<img align="right" alt="ShZh7" width="270px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+<img align="right" alt="ShZh7" width="270px" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" />
 
 ![](https://img.shields.io/badge/age-21-brightgreen)
 ![](https://img.shields.io/badge/sex-male-yellow)
