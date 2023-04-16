@@ -14,4 +14,4 @@
 - I love contributing open source projects. [🕸️ [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen/issues?q=author%3ASh-Zh-7)]
 - More interesting details about me. [[🔭 my homepage](https://shzh.wiki)] | [[☘️ Curriculum Vitae](https://imshzh.github.io/cv/en-US.pdf)]
 
-I'm preparing for 2023 postgraduate entrance exams.
+I'm looking for a daily internship in database development.
